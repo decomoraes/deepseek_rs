@@ -2,5 +2,7 @@
 name = "deepseek"
 version = "0.1.0"
 edition = "2021"
+description = "Deepseek crate"
+license = "MIT"
 
 [dependencies]
